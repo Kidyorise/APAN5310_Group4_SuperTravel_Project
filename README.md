@@ -1,2 +1,2 @@
 # APAN5310_Group4_SuperTravel_Project
-Our goal is to help our client, SuperTravel, build the data system behind their recommendation website and the corresponding dashboard. 
+Our goal is to help our client, SuperTravel, build the data system behind their recommendation website and the corresponding dashboard. The website is a multi-purpose platform that integrates airlines, car rentals, and hotels. As a travel agency, SuperTravel has to deal with various types of data. Developing a relational database helps SuperTravel to efficiently store data, link to relevant data, and allow data to be extracted for further analysis through query language.
